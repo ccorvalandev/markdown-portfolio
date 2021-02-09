@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Skills:
+* Fluent in both *__English__* and *__Spanish__*
+* Intermediate level knowledge of __HTML__ *and* __CSS__
+* Beginner level knowledge of __Javascript__
