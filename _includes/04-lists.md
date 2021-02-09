@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favorite places to eat:
+* Chick-Fil-A
+* Taco Bell
+* Publix
+  * Deli section
